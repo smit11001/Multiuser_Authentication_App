@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123188970739",
+    "project_id": "multi-user-auth-8d2a5",
+    "storage_bucket": "multi-user-auth-8d2a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123188970739:android:97dd1f37de52a60355e386",
+        "android_client_info": {
+          "package_name": "com.example.multi_user_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123188970739-o1ei9j28s7gen1lnq681cenqe6vvtstl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA95w_MZGypx9SjINT9mlO6bQ67g-Qu9WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123188970739-o1ei9j28s7gen1lnq681cenqe6vvtstl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
